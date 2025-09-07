@@ -42,3 +42,6 @@ This contains all our Model classes which define structure for the News API resp
  
 
 ### App Photos
+<img src="https://github.com/AkanshChoudhary/Newzzy/blob/main/app_images/image3.jpg" width="400" height="800" /> <img src="https://github.com/AkanshChoudhary/Newzzy/blob/main/app_images/image2.jpg" width="400" height="800" />
+<img src="https://github.com/AkanshChoudhary/Newzzy/blob/main/app_images/image1.jpg" width="400" height="800" />
+
