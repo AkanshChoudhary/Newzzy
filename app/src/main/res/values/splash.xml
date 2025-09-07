@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="App.Starting.Theme" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FFFF</item> <!-- Consider changing if your icon is white -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+        <item name="splashScreenIconSize">120dp</item> <!-- Make sure this is an appropriate size -->
+        <item name="postSplashScreenTheme">@style/Theme.NewsApp</item>
+        <!-- Add these lines for NoActionBar -->
+        <item name="android:windowNoTitle">true</item>
+
+    </style>
+</resources>
